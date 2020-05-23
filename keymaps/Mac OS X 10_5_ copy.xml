@@ -8,6 +8,9 @@
   <action id="ActivateBuildVariantsToolWindow">
     <keyboard-shortcut first-keystroke="meta 8" />
   </action>
+  <action id="ActivateEmulatorToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta 2" />
+  </action>
   <action id="ActivateFavoritesToolWindow">
     <keyboard-shortcut first-keystroke="meta 7" />
   </action>
