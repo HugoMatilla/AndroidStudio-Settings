@@ -4,7 +4,7 @@
     <property name="created">2018-05-30T17:48:59</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.1.2.0</property>
-    <property name="modified">2020-05-25T10:08:45</property>
+    <property name="modified">2020-05-25T10:14:10</property>
     <property name="originalScheme">Darkside Contrast (rainglow)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -684,7 +684,7 @@
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="d06b" />
+        <option name="FOREGROUND" value="d077" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
