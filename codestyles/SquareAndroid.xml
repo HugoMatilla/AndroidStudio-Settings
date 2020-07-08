@@ -139,6 +139,7 @@
     <option name="FIELD_ANNOTATION_WRAP" value="1" />
     <option name="PARAMETER_ANNOTATION_WRAP" value="1" />
     <option name="VARIABLE_ANNOTATION_WRAP" value="1" />
+    <option name="SOFT_MARGINS" value="110" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
@@ -349,7 +350,6 @@
     <option name="CLASS_BRACE_STYLE" value="1" />
     <option name="METHOD_BRACE_STYLE" value="1" />
     <option name="LAMBDA_BRACE_STYLE" value="1" />
-    <option name="USE_FLYING_GEESE_BRACES" value="false" />
     <option name="DO_NOT_INDENT_TOP_LEVEL_CLASS_MEMBERS" value="false" />
     <option name="ELSE_ON_NEW_LINE" value="false" />
     <option name="WHILE_ON_NEW_LINE" value="false" />
@@ -364,7 +364,6 @@
     <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="false" />
     <option name="ALIGN_MULTILINE_RESOURCES" value="true" />
     <option name="ALIGN_MULTILINE_FOR" value="true" />
-    <option name="INDENT_WHEN_CASES" value="true" />
     <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="false" />
     <option name="ALIGN_MULTILINE_ASSIGNMENT" value="false" />
     <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="false" />
@@ -480,7 +479,6 @@
     <option name="ARRAY_INITIALIZER_RBRACE_ON_NEXT_LINE" value="false" />
     <option name="ASSIGNMENT_WRAP" value="1" />
     <option name="PLACE_ASSIGNMENT_SIGN_ON_NEXT_LINE" value="false" />
-    <option name="LABELED_STATEMENT_WRAP" value="2" />
     <option name="WRAP_COMMENTS" value="false" />
     <option name="ASSERT_STATEMENT_WRAP" value="0" />
     <option name="ASSERT_STATEMENT_COLON_ON_NEXT_LINE" value="false" />
