@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
-      <mapping ext="webp" type="Image" />
       <mapping pattern="DealsData" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="mp4" type="Native" />
@@ -15,6 +14,7 @@
       <mapping pattern="booleans" type="PLAIN_TEXT" />
       <mapping pattern="user_login.json" type="PLAIN_TEXT" />
       <mapping ext="kotlin" type="PLAIN_TEXT" />
+      <mapping ext="mockmaker" type="PLAIN_TEXT" />
       <mapping pattern="btn_transparent" type="XML" />
     </extensionMap>
   </component>
