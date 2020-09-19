@@ -8,6 +8,9 @@
   <action id="ActivateBuildVariantsToolWindow">
     <keyboard-shortcut first-keystroke="meta 8" />
   </action>
+  <action id="ActivateEmulatorToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta 2" />
+  </action>
   <action id="ActivateFavoritesToolWindow">
     <keyboard-shortcut first-keystroke="meta 7" />
   </action>
@@ -25,6 +28,9 @@
     <keyboard-shortcut first-keystroke="meta f10" />
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
+  <action id="Android.SyncProject">
+    <keyboard-shortcut first-keystroke="shift meta x" />
+  </action>
   <action id="AndroidConnectDebuggerAction">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
@@ -38,6 +44,9 @@
   <action id="FileChooser.GotoProject" />
   <action id="Kotlin.NewFile">
     <keyboard-shortcut first-keystroke="shift ctrl n" />
+  </action>
+  <action id="LoadUnloadModules">
+    <keyboard-shortcut first-keystroke="shift meta l" />
   </action>
   <action id="Macro.Format on Save">
     <keyboard-shortcut first-keystroke="meta s" />
