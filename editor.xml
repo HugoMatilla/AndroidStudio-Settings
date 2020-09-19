@@ -47,4 +47,8 @@
     <option name="collapseBlockExpressions" value="true" />
     <option name="COLLAPSE_BLOCK_EXPRESSIONS" value="true" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+  </component>
 </application>
