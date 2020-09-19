@@ -1,10 +1,6 @@
 <application>
-  <component name="NotificationConfiguration" showBalloons="false">
-    <notification groupId="Android XML code style notification" displayType="NONE" shouldLog="false" />
+  <component name="NotificationConfiguration">
     <notification groupId="Build sync orphan modules" displayType="NONE" shouldLog="false" />
-    <notification groupId="Emulator" displayType="NONE" />
     <notification groupId="Gradle Notification Group" displayType="NONE" shouldLog="false" />
-    <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" shouldLog="false" />
-    <notification groupId="Maven Import" displayType="STICKY_BALLOON" />
   </component>
 </application>
