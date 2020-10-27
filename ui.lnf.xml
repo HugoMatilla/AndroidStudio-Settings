@@ -6,10 +6,12 @@
     <option name="HIDE_TOOL_STRIPES" value="true" />
     <option name="LEFT_HORIZONTAL_SPLIT" value="true" />
     <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
-    <option name="MAX_LOOKUP_LIST_HEIGHT" value="5" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="35" />
+    <option name="MAX_LOOKUP_WIDTH2" value="565" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="PRESENTATION_MODE_FONT_SIZE" value="26" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
     <option name="SHOW_NAVIGATION_BAR" value="false" />
+    <option name="SHOW_STATUS_BAR" value="false" />
   </component>
 </application>
