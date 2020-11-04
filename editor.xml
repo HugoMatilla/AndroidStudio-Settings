@@ -33,7 +33,7 @@
         <entry key="yaml" value="true" />
       </map>
     </option>
-    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
+    <option name="USE_SOFT_WRAPS" value="" />
     <option name="SHOW_BREADCRUMBS" value="false" />
   </component>
   <component name="JavaCodeFoldingSettings">
@@ -46,5 +46,9 @@
   <component name="OCCodeFoldingSettings">
     <option name="collapseBlockExpressions" value="true" />
     <option name="COLLAPSE_BLOCK_EXPRESSIONS" value="true" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
   </component>
 </application>
