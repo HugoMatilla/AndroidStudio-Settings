@@ -1,9 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="compactStatusBar" value="true" />
-    <option name="contrastMode" value="true" />
-    <option name="highContrast" value="true" />
-    <option name="styledDirectories" value="true" />
+    <option name="arrowsStyle" value="Darcula" />
     <option name="compactSidebar" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isContrastMode" value="true" />
