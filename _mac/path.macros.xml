@@ -3,6 +3,6 @@
     <macro name="JAVA7_HOME" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Content/Home" />
     <macro name="JAVA8_HOME" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Content/Home" />
     <macro name="MAVEN_REPOSITORY" value="/Users/hugomatilla/.m2/repository" />
-    <macro name="KOTLIN_BUNDLED" value="/Users/hugomatilla/Library/Application Support/JetBrains/Toolbox/apps/AndroidStudio/ch-2/193.6626763/Android Studio.app/Contents/plugins/Kotlin/kotlinc" />
+    <macro name="KOTLIN_BUNDLED" value="/private/var/folders/f2/vmdn20fn3cs686x06x5vrlwr0000gp/T/AppTranslocation/6ED15CD2-3960-4731-968D-2C6345E7CF46/d/Android Studio.app/Contents/plugins/Kotlin/kotlinc" />
   </component>
 </application>
