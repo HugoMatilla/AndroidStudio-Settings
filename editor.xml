@@ -35,6 +35,7 @@
     </option>
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="SHOW_BREADCRUMBS" value="false" />
+    <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseInnerClasses" value="true" />
