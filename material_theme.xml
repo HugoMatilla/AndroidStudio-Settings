@@ -1,6 +1,9 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="arrowsStyle" value="Darcula" />
+    <option name="compactStatusBar" value="true" />
+    <option name="contrastMode" value="true" />
+    <option name="highContrast" value="true" />
+    <option name="styledDirectories" value="true" />
     <option name="compactSidebar" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isContrastMode" value="true" />
@@ -15,6 +18,6 @@
     <option name="highlightColor" value="80cbc4" />
     <option name="selectedTheme" value="DEEPOCEAN" />
     <option name="userId" value="-404b62c4:166eeadbbe1:-7fff" />
-    <option name="version" value="4.11.5" />
+    <option name="version" value="5.2.0" />
   </component>
 </application>
