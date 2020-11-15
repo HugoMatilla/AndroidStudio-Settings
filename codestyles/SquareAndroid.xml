@@ -10,13 +10,6 @@
   </option>
   <option name="RIGHT_MARGIN" value="120" />
   <option name="SOFT_MARGINS" value="100" />
-  <AndroidXmlCodeStyleSettings>
-    <option name="LAYOUT_SETTINGS">
-      <value>
-        <option name="INSERT_LINE_BREAK_AFTER_LAST_ATTRIBUTE" value="true" />
-      </value>
-    </option>
-  </AndroidXmlCodeStyleSettings>
   <GroovyCodeStyleSettings>
     <option name="ALIGN_MULTILINE_LIST_OR_MAP" value="false" />
     <option name="ALIGN_NAMED_ARGS_IN_MAP" value="false" />
@@ -47,11 +40,6 @@
     <option name="NAME_COUNT_TO_USE_STAR_IMPORT" value="999" />
     <option name="NAME_COUNT_TO_USE_STAR_IMPORT_FOR_MEMBERS" value="999" />
     <option name="IMPORT_NESTED_CLASSES" value="true" />
-    <option name="CONTINUATION_INDENT_IN_ARGUMENT_LISTS" value="true" />
-    <option name="CONTINUATION_INDENT_FOR_CHAINED_CALLS" value="true" />
-    <option name="CONTINUATION_INDENT_IN_SUPERTYPE_LISTS" value="true" />
-    <option name="CONTINUATION_INDENT_IN_IF_CONDITIONS" value="true" />
-    <option name="CONTINUATION_INDENT_IN_ELVIS" value="true" />
     <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
   </JetCodeStyleSettings>
   <XML>
@@ -153,7 +141,7 @@
     <option name="VARIABLE_ANNOTATION_WRAP" value="1" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
-      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
@@ -209,7 +197,7 @@
   <codeStyleSettings language="XML">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
-      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
     <arrangement>
@@ -327,7 +315,6 @@
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="1" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
-    <option name="EXTENDS_LIST_WRAP" value="5" />
     <option name="METHOD_ANNOTATION_WRAP" value="1" />
     <option name="FIELD_ANNOTATION_WRAP" value="1" />
     <option name="ENUM_CONSTANTS_WRAP" value="2" />
