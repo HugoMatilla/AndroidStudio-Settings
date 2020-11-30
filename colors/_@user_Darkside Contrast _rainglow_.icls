@@ -4,7 +4,7 @@
     <property name="created">2018-05-30T17:48:59</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.1.2.0</property>
-    <property name="modified">2020-11-15T20:11:49</property>
+    <property name="modified">2020-11-30T16:28:30</property>
     <property name="originalScheme">Darkside Contrast (rainglow)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -58,7 +58,7 @@
     <option name="GUTTER_BACKGROUND" value="0" />
     <option name="INDENT_GUIDE" value="d0d0d" />
     <option name="INFORMATION_HINT" value="0" />
-    <option name="LINE_NUMBERS_COLOR" value="262626" />
+    <option name="LINE_NUMBERS_COLOR" value="474747" />
     <option name="METHOD_SEPARATORS_COLOR" value="d0d0d" />
     <option name="MODIFIED_LINES_COLOR" value="ffcb6e" />
     <option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
