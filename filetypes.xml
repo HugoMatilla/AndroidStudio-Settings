@@ -14,6 +14,7 @@
       <mapping pattern="booleans" type="PLAIN_TEXT" />
       <mapping pattern="picture_cwac2" type="PLAIN_TEXT" />
       <mapping pattern="UserRepository.class" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="kotlin" type="PLAIN_TEXT" />
       <mapping pattern="btn_transparent" type="XML" />
     </extensionMap>
