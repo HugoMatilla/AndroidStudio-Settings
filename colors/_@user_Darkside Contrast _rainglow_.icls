@@ -4,7 +4,7 @@
     <property name="created">2018-05-30T17:48:59</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.1.2.0</property>
-    <property name="modified">2020-12-08T17:27:31</property>
+    <property name="modified">2020-12-13T13:42:44</property>
     <property name="originalScheme">Darkside Contrast (rainglow)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -183,7 +183,7 @@
     </option>
     <option name="BOOKMARKS_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="4a01" />
+        <option name="BACKGROUND" value="3b0037" />
         <option name="FONT_TYPE" value="1" />
         <option name="ERROR_STRIPE_COLOR" value="dbdbdb" />
       </value>
