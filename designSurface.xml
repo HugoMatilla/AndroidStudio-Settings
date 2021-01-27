@@ -27,6 +27,10 @@
         <entry key="../../../../../../../layout/compose-model-1600598064658.xml" value="1.0" />
         <entry key="../../../../../../../layout/compose-model-1600598171687.xml" value="1.0" />
         <entry key="../../../../../../../layout/compose-model-1600598266788.xml" value="1.0" />
+        <entry key="app/src/main/res/layout/list_fragment.xml" value="0.16448032290615539" />
+        <entry key="app/src/main/res/layout/list_item.xml" value="0.16448032290615539" />
+        <entry key="app/src/main/res/layout/main_activity.xml" value="0.16448032290615539" />
+        <entry key="app/src/main/res/layout/price_range_selector.xml" value="0.16448032290615539" />
       </map>
     </option>
   </component>
