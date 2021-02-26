@@ -1,6 +1,6 @@
 <application>
-  <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping pattern="DealsData" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -15,6 +15,8 @@
       <mapping pattern="user_login.json" type="PLAIN_TEXT" />
       <mapping ext="kotlin" type="PLAIN_TEXT" />
       <mapping pattern="btn_transparent" type="XML" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
 </application>
