@@ -13,6 +13,7 @@
       <mapping pattern="RecyclerViewAdapter.kt" type="PLAIN_TEXT" />
       <mapping pattern="UserRepository.class" type="PLAIN_TEXT" />
       <mapping pattern="user_login.json" type="PLAIN_TEXT" />
+      <mapping ext="xcuserstate" type="PLAIN_TEXT" />
       <mapping ext="kotlin" type="PLAIN_TEXT" />
       <mapping pattern="btn_transparent" type="XML" />
       <removed_mapping ext="psd" approved="true" type="Image" />
