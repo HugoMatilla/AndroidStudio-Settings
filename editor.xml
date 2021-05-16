@@ -37,6 +37,9 @@
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+  </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseInnerClasses" value="true" />
     <option name="collapseOneLineMethods" value="false" />
