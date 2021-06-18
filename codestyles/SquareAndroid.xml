@@ -10,6 +10,13 @@
   </option>
   <option name="RIGHT_MARGIN" value="120" />
   <option name="SOFT_MARGINS" value="100" />
+  <AndroidXmlCodeStyleSettings>
+    <option name="LAYOUT_SETTINGS">
+      <value>
+        <option name="INSERT_LINE_BREAK_AFTER_LAST_ATTRIBUTE" value="true" />
+      </value>
+    </option>
+  </AndroidXmlCodeStyleSettings>
   <GroovyCodeStyleSettings>
     <option name="ALIGN_MULTILINE_LIST_OR_MAP" value="false" />
     <option name="ALIGN_NAMED_ARGS_IN_MAP" value="false" />
@@ -199,7 +206,7 @@
   <codeStyleSettings language="XML">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
-      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
     <arrangement>
