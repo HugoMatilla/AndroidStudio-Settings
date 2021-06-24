@@ -43,6 +43,7 @@
         <entry key="app/src/main/res/layout/resident_discount_widget.xml" value="0.6208333333333333" />
         <entry key="app/src/main/res/layout/rides_filter_fragment.xml" value="0.1" />
         <entry key="app/src/main/res/layout/widgets_fragment.xml" value="0.3697916666666667" />
+        <entry key="core/ui/src/main/res/layout/flat_message_widget.xml" value="0.6208333333333333" />
         <entry key="prime/src/main/res/drawable/ic_days_left.xml" value="0.6098958333333333" />
         <entry key="prime/src/main/res/layout/fragment_prime_retention_flights.xml" value="0.53125" />
       </map>
