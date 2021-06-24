@@ -55,6 +55,7 @@
         <entry key="core/ui/src/main/res/layout/flat_message_widget.xml" value="0.6208333333333333" />
         <entry key="core/ui/src/main/res/layout/fragment_hack.xml" value="0.6208333333333333" />
         <entry key="core/ui/src/main/res/layout/fragment_home.xml" value="0.6208333333333333" />
+        <entry key="core/ui/src/main/res/layout/fragment_theming_workshop_dialog.xml" value="0.5384963768115942" />
         <entry key="core/ui/src/main/res/layout/fragment_theming_workshop_widgets.xml" value="0.5384963768115942" />
         <entry key="core/ui/src/main/res/layout/fragment_widgets.xml" value="0.6208333333333333" />
         <entry key="core/ui/src/main/res/menu/menu_theming_workshop_debug.xml" value="0.6208333333333333" />
