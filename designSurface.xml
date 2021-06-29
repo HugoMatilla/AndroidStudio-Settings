@@ -62,6 +62,7 @@
         <entry key="core/ui/src/main/res/layout/fragment_theming_workshop_home.xml" value="0.6057291666666667" />
         <entry key="core/ui/src/main/res/layout/fragment_theming_workshop_widgets.xml" value="0.5384963768115942" />
         <entry key="core/ui/src/main/res/layout/fragment_widgets.xml" value="0.6208333333333333" />
+        <entry key="core/ui/src/main/res/layout/workshop_fragment_theming_dialog.xml" value="0.6208333333333333" />
         <entry key="core/ui/src/main/res/menu/menu_theming_workshop_debug.xml" value="0.6208333333333333" />
         <entry key="core/ui/src/main/res/menu/menu_ws_main.xml" value="0.6208333333333333" />
         <entry key="prime/src/main/res/drawable/ic_days_left.xml" value="0.6098958333333333" />
