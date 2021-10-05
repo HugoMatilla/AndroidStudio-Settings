@@ -163,6 +163,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.db">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.squareup.sqldelight" />
+              <option name="myPluginName" value="SQLDelight" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.dcx">
           <value>
             <plugin>
@@ -1003,6 +1011,22 @@
             <plugin>
               <option name="myPluginId" value="com.thoughtworks.gauge" />
               <option name="myPluginName" value="Gauge" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.sq">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.squareup.sqldelight" />
+              <option name="myPluginName" value="SQLDelight" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.sqm">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.squareup.sqldelight" />
+              <option name="myPluginName" value="SQLDelight" />
             </plugin>
           </value>
         </entry>
