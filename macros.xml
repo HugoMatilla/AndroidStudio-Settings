@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="ActionMacroManager">
     <macro name="Format on Save">
@@ -8,4 +7,3 @@
     </macro>
   </component>
 </application>
-
