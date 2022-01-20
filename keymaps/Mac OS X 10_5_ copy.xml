@@ -32,9 +32,6 @@
     <keyboard-shortcut first-keystroke="meta f10" />
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
-  <action id="Android.SyncProject">
-    <keyboard-shortcut first-keystroke="shift meta x" />
-  </action>
   <action id="AndroidConnectDebuggerAction">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
@@ -43,9 +40,12 @@
     <keyboard-shortcut first-keystroke="meta divide" />
     <keyboard-shortcut first-keystroke="meta alt 7" />
   </action>
-  <action id="Debug" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="shift meta x" />
+  </action>
   <action id="DuplicatesForm.SendToRight" />
   <action id="FileChooser.GotoProject" />
+  <action id="Github.PullRequest.Diff.Comment.Create" />
   <action id="Kotlin.NewFile">
     <keyboard-shortcut first-keystroke="shift ctrl n" />
   </action>
