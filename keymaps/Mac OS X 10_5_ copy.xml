@@ -52,9 +52,6 @@
   <action id="LoadUnloadModules">
     <keyboard-shortcut first-keystroke="shift meta l" />
   </action>
-  <action id="Macro.Format on Save">
-    <keyboard-shortcut first-keystroke="meta s" />
-  </action>
   <action id="MaterialDesignIconGenerateAction" />
   <action id="NewDir">
     <keyboard-shortcut first-keystroke="shift meta p" />
