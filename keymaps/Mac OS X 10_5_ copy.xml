@@ -35,6 +35,9 @@
   <action id="AndroidConnectDebuggerAction">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift meta slash" />
+  </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="meta slash" />
     <keyboard-shortcut first-keystroke="meta divide" />
@@ -123,7 +126,6 @@
     <keyboard-shortcut first-keystroke="meta alt back_slash" />
   </action>
   <action id="ViewToolButtons">
-    <keyboard-shortcut first-keystroke="ctrl alt period" />
     <keyboard-shortcut first-keystroke="meta alt quote" />
   </action>
   <action id="android.deploy.ApplyChanges">
