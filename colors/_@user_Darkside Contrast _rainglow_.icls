@@ -4,7 +4,7 @@
     <property name="created">2018-05-30T17:48:59</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.1.2.0</property>
-    <property name="modified">2021-12-21T17:37:05</property>
+    <property name="modified">2021-05-16T10:43:37</property>
     <property name="originalScheme">Darkside Contrast (rainglow)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -31,7 +31,7 @@
     <option name="ADDED_LINES_COLOR" value="f2d42c" />
     <option name="ANNOTATIONS_COLOR" value="b0bec5" />
     <option name="CARET_COLOR" value="bababa" />
-    <option name="CARET_ROW_COLOR" value="282525" />
+    <option name="CARET_ROW_COLOR" value="80808" />
     <option name="CONSOLE_BACKGROUND_KEY" value="0" />
     <option name="DELETED_LINES_COLOR" value="f77669" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1c1c1c" />
@@ -63,7 +63,7 @@
     <option name="MODIFIED_LINES_COLOR" value="ffcb6e" />
     <option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
     <option name="MT_SUPPRESSED" value="bababa" />
-    <option name="NOTIFICATION_BACKGROUND" value="250025" />
+    <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
     <option name="NOT_CHANGED" value="616161" />
     <option name="PRESENTATION_ASSISTANT_HINT_BACKGROUND" value="1e474b" />
     <option name="QUESTION_HINT" value="0" />
@@ -183,7 +183,7 @@
     </option>
     <option name="BOOKMARKS_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="250025" />
+        <option name="BACKGROUND" value="3b0037" />
         <option name="FONT_TYPE" value="1" />
         <option name="ERROR_STRIPE_COLOR" value="dbdbdb" />
       </value>
