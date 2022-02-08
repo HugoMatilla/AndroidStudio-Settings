@@ -1,2 +1,0 @@
-# AndroidStudio-Settings
-Deep-Ocean

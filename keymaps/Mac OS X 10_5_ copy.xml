@@ -24,10 +24,6 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
-  <action id="ActivateVersionControlToolWindow">
-    <keyboard-shortcut first-keystroke="meta 9" />
-    <keyboard-shortcut first-keystroke="meta #10000a7" />
-  </action>
   <action id="Android.CleanRun">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
     <keyboard-shortcut first-keystroke="meta alt x" />

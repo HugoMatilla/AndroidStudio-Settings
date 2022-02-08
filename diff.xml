@@ -3,21 +3,10 @@
   <component name="DiffSettings">
     <option name="PLACES_MAP">
       <entry key="ChangesView">
-        <PlaceSettings>
-          <option name="DIFF_TOOLS_ORDER">
-            <list>
-              <option value="com.intellij.openapi.vcs.changes.patch.tool.ApplyPatchDiffTool" />
-              <option value="com.intellij.openapi.vcs.changes.patch.tool.PatchDiffTool" />
-              <option value="org.jetbrains.idea.svn.difftool.properties.SvnPropertiesDiffTool" />
-              <option value="org.jetbrains.idea.svn.difftool.SvnPhantomChangeDiffRequestProvider.SvnPhantomDiffTool" />
-              <option value="org.jetbrains.idea.svn.difftool.SvnTreeConflictDiffRequestProvider.SvnTreeConflictDiffTool" />
-              <option value="com.intellij.diff.tools.fragmented.UnifiedDiffTool" />
-              <option value="com.intellij.diff.tools.simple.SimpleDiffTool" />
-              <option value="com.intellij.diff.tools.binary.BinaryDiffTool" />
-              <option value="com.intellij.diff.tools.dir.DirDiffTool" />
-            </list>
-          </option>
-        </PlaceSettings>
+        <PlaceSettings />
+      </entry>
+      <entry key="CommitDialog">
+        <PlaceSettings />
       </entry>
       <entry key="Default">
         <PlaceSettings>
@@ -34,6 +23,12 @@
           </option>
         </PlaceSettings>
       </entry>
+      <entry key="DirDiff">
+        <PlaceSettings />
+      </entry>
+      <entry key="TestsFiledAssertions">
+        <PlaceSettings />
+      </entry>
     </option>
   </component>
   <component name="TextDiffSettings">
@@ -43,11 +38,19 @@
           <option name="EXPAND_BY_DEFAULT" value="false" />
         </PlaceSettings>
       </entry>
+      <entry key="CommitDialog">
+        <PlaceSettings>
+          <option name="EXPAND_BY_DEFAULT" value="false" />
+        </PlaceSettings>
+      </entry>
       <entry key="Default">
         <PlaceSettings>
           <option name="IGNORE_POLICY" value="TRIM_WHITESPACES" />
           <option name="USE_SOFT_WRAPS" value="true" />
         </PlaceSettings>
+      </entry>
+      <entry key="TestsFiledAssertions">
+        <PlaceSettings />
       </entry>
     </option>
   </component>
