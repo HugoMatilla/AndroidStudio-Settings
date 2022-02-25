@@ -10,4 +10,9 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
+  <template name=".klog" value=" .also{Logger.i(&quot;🚛 $it&quot;)}" description="Kermit Logger" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
 </templateSet>
