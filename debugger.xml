@@ -92,6 +92,11 @@
           <option name="LLDB_NATVIS_RENDERERS_ENABLED" value="false" />
         </configuration>
       </debugger>
+      <debugger id="javascript">
+        <configuration>
+          <custom-object-presentation />
+        </configuration>
+      </debugger>
     </debuggers>
   </component>
 </application>
