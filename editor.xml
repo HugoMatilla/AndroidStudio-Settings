@@ -4,7 +4,6 @@
   </component>
   <component name="CodeInsightSettings">
     <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
-    <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
     <option name="REFORMAT_BLOCK_ON_RBRACE" value="false" />
     <option name="OPTIMIZE_IMPORTS_ON_THE_FLY" value="true" />
     <EXCLUDED_PACKAGE NAME="com.hugomatilla.starwars.domain.model.ArticleDomain" />
@@ -15,7 +14,9 @@
   </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="16" />
-    <option name="FONT_FAMILY" value="Fira Code Light" />
+    <option name="FONT_FAMILY" value="Fira Code" />
+    <option name="FONT_REGULAR_SUB_FAMILY" value="Light" />
+    <option name="FONT_BOLD_SUB_FAMILY" value="Light" />
     <option name="USE_LIGATURES" value="true" />
     <option name="SECONDARY_FONT_FAMILY" value="Menlo" />
   </component>
