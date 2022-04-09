@@ -1,4 +1,7 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="ActivateAndroidEmulatorToolWindow">
+    <keyboard-shortcut first-keystroke="meta 7" />
+  </action>
   <action id="ActivateAndroidToolWindow">
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
@@ -11,9 +14,7 @@
   <action id="ActivateEmulatorToolWindow">
     <keyboard-shortcut first-keystroke="shift meta 2" />
   </action>
-  <action id="ActivateFavoritesToolWindow">
-    <keyboard-shortcut first-keystroke="meta 7" />
-  </action>
+  <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow" />
   <action id="ActivateLogcatToolWindow">
     <keyboard-shortcut first-keystroke="meta 6" />
