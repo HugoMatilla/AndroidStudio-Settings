@@ -1,5 +1,9 @@
 <application>
   <component name="PresentationAssistant">
     <option name="alternativeKeymap" />
+    <option name="fontSize" value="36" />
+    <option name="hideDelay" value="2000" />
+    <option name="horizontalAlignment" value="RIGHT" />
+    <option name="verticalAlignment" value="TOP" />
   </component>
 </application>
