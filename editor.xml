@@ -12,6 +12,14 @@
   <component name="DaemonCodeAnalyzerSettings">
     <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="3" />
   </component>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="16" />
+    <option name="FONT_FAMILY" value="Fira Code" />
+    <option name="FONT_REGULAR_SUB_FAMILY" value="Light" />
+    <option name="FONT_BOLD_SUB_FAMILY" value="Light" />
+    <option name="USE_LIGATURES" value="true" />
+    <option name="SECONDARY_FONT_FAMILY" value="Menlo" />
+  </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
       <map>
