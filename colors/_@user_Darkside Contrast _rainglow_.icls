@@ -4,7 +4,7 @@
     <property name="created">2018-05-30T17:48:59</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.1.2.0</property>
-    <property name="modified">2022-03-16T15:50:14</property>
+    <property name="modified">2022-04-17T00:32:18</property>
     <property name="originalScheme">Darkside Contrast (rainglow)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -68688,7 +68688,7 @@
     </option>
     <option name="OC.MESSAGE_ARGUMENT">
       <value>
-        <option name="FOREGROUND" value="e8341c" />
+        <option name="FOREGROUND" value="c700ff" />
       </value>
     </option>
     <option name="OC.NAMESPACE_LIKE">
@@ -68723,7 +68723,7 @@
     </option>
     <option name="OC.PROPERTY">
       <value>
-        <option name="FOREGROUND" value="bababa" />
+        <option name="FOREGROUND" value="c700ff" />
       </value>
     </option>
     <option name="OC.PROPERTY_ATTRIBUTE">
