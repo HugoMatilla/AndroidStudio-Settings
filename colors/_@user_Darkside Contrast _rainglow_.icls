@@ -4,7 +4,7 @@
     <property name="created">2018-05-30T17:48:59</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.1.2.0</property>
-    <property name="modified">2022-04-20T11:51:56</property>
+    <property name="modified">2022-04-20T15:08:35</property>
     <property name="originalScheme">Darkside Contrast (rainglow)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -67,7 +67,7 @@
     <option name="NOT_CHANGED" value="616161" />
     <option name="PRESENTATION_ASSISTANT_HINT_BACKGROUND" value="1e474b" />
     <option name="QUESTION_HINT" value="0" />
-    <option name="RIGHT_MARGIN_COLOR" value="a0a0a" />
+    <option name="RIGHT_MARGIN_COLOR" value="1a1919" />
     <option name="SELECTED_INDENT_GUIDE" value="262626" />
     <option name="SELECTED_TEARLINE_COLOR" value="262626" />
     <option name="SELECTION_BACKGROUND" value="6106c" />
@@ -69928,7 +69928,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="bababa" />
+        <option name="FOREGROUND" value="d9d9d9" />
         <option name="BACKGROUND" value="0" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
