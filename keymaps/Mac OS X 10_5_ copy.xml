@@ -5,6 +5,7 @@
   <action id="ActivateAndroidToolWindow">
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
+  <action id="ActivateBookmarksToolWindow" />
   <action id="ActivateBuildToolWindow">
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
