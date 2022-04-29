@@ -2,6 +2,8 @@
   <component name="AdvancedSettings">
     <option name="settings">
       <map>
+        <entry key="bigger.font.in.project.view" value="true" />
+        <entry key="cidr.test.framework.showIndexingAsTask" value="false" />
         <entry key="confirm.rerun.with.termination" value="false" />
       </map>
     </option>
