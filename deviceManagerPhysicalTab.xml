@@ -5,23 +5,24 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="25a34c810d1c7ece" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-05-05T08:11:31.246141Z" />
+        <name value="samsung SM-N960F" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="f40ddd41" />
           </Key>
         </key>
         <name value="OnePlus ONEPLUS A3003" />
         <target value="Android 9.0" />
         <api value="28" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="25a34c810d1c7ece" />
-          </Key>
-        </key>
-        <name value="samsung SM-N960F" />
-        <target value="Android 10.0" />
-        <api value="29" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
