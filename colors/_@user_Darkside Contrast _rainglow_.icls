@@ -4,7 +4,7 @@
     <property name="created">2018-05-30T17:48:59</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.1.2.0</property>
-    <property name="modified">2022-04-20T15:12:25</property>
+    <property name="modified">2022-05-04T15:41:09</property>
     <property name="originalScheme">Darkside Contrast (rainglow)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -808,7 +808,7 @@
     </option>
     <option name="DIFF_DELETED">
       <value>
-        <option name="BACKGROUND" value="b63b50" />
+        <option name="BACKGROUND" value="4e2929" />
         <option name="ERROR_STRIPE_COLOR" value="656e76" />
       </value>
     </option>
@@ -820,7 +820,7 @@
     </option>
     <option name="DIFF_MODIFIED">
       <value>
-        <option name="BACKGROUND" value="927243" />
+        <option name="BACKGROUND" value="473a26" />
         <option name="ERROR_STRIPE_COLOR" value="43698d" />
       </value>
     </option>
