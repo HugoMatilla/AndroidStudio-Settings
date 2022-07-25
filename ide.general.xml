@@ -21,6 +21,5 @@
     <entry key="ide.tree.ui.experimental" value="false" />
     <entry key="external.system.auto.import.disabled" value="true" />
     <entry key="run.processes.with.pty" value="false" />
-    <entry key="ide.experimental.ui" value="false" />
   </component>
 </application>
