@@ -5,7 +5,7 @@
         <option name="preferXmlEditor" value="true" />
         <option name="preferredComposableEditorMode" value="SPLIT" />
         <option name="preferredDrawableEditorMode" value="CODE" />
-        <option name="preferredEditorMode" value="DESIGN" />
+        <option name="preferredEditorMode" value="SPLIT" />
         <option name="preferredKotlinEditorMode" value="CODE" />
         <option name="showEffects" value="false" />
         <option name="visible" value="false" />
