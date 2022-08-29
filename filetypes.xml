@@ -4,7 +4,6 @@
     <extensionMap>
       <mapping pattern="SceneDelegate.swift" type="AUTO_DETECTED" />
       <mapping pattern="UserRepositoryIos.kt" type="AUTO_DETECTED" />
-      <removed_mapping ext="pro" type="DeviceSpecFile" />
       <mapping pattern="DealsData" type="Kotlin" />
       <mapping pattern="UserRepositoryIos" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
@@ -20,11 +19,11 @@
       <mapping pattern="custom_button" type="PLAIN_TEXT" />
       <mapping ext="xcuserstate" type="PLAIN_TEXT" />
       <mapping ext="kotlin" type="PLAIN_TEXT" />
-      <mapping ext="pro" type="Shrinker Config File" />
       <mapping pattern="btn_transparent" type="XML" />
       <mapping ext="gpx" type="XML" />
       <mapping ext="xcscheme" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="pro" approved="true" type="DeviceSpecFile" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
