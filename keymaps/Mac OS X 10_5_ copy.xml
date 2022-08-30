@@ -50,6 +50,10 @@
   </action>
   <action id="DuplicatesForm.SendToRight" />
   <action id="FileChooser.GotoProject" />
+  <action id="ForceRefresh">
+    <keyboard-shortcut first-keystroke="shift meta alt r" />
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
   <action id="Kotlin.NewFile">
     <keyboard-shortcut first-keystroke="shift ctrl n" />
   </action>
