@@ -1,8 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:ERROR" />
+    <option name="mostRecentlyUsed" value="12:55:03." />
     <option name="nonFavorites">
       <list>
+        <option value="12:55:03." />
+        <option value="sepa_instant_out" />
+        <option value="mobile_dashboard_v1" />
+        <option value="http Organization" />
+        <option value="http" />
         <option value="level:ERROR" />
         <option value="level:" />
         <option value=" E " />
