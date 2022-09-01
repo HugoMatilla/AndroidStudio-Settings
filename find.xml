@@ -16,5 +16,6 @@
     <mask>*.java</mask>
     <mask>*.toml</mask>
     <mask>*.xml</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
