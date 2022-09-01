@@ -6,11 +6,11 @@
         <option value="package:mine level:ERROR " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine   " />
+    <option name="mostRecentlyUsed" value="package:mine level:ERROR " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine" />
         <option value="package:mine  " />
+        <option value="package:mine" />
         <option value="package:mine  okhttp" />
         <option value="package:mine level:" />
         <option value="package:mine " />
