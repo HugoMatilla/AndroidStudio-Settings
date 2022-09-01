@@ -5,11 +5,12 @@
         <option value="package:mine level:ERROR " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine   " />
+    <option name="mostRecentlyUsed" value="package:mine  " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine   " />
         <option value="package:mine  " />
+        <option value="package:mine  okhttp" />
+        <option value="package:mine   " />
         <option value="package:mine level:" />
         <option value="package:mine " />
         <option value="14:11:21." />
@@ -27,7 +28,6 @@
         <option value="Error" />
         <option value="" />
         <option value="thread" />
-        <option value="" />
       </list>
     </option>
   </component>
