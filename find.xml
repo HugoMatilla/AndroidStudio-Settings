@@ -7,10 +7,10 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.kt" />
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
-    <mask>*.kt</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -18,5 +18,7 @@
     <mask>*.java</mask>
     <mask>*.toml</mask>
     <mask>*.xml</mask>
+    <mask>*.gradle</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
