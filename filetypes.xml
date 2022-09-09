@@ -1,6 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
-    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs" />
+    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*_Factory.java;*_MembersInjector.java;*_Provide*Factory.java;*~;.DS_Store;.git;.hg;.svn;CVS;DaggerAppComponent.java;DaggerUiTestAppComponent.java;RCS;SCCS;__pycache__;_svn;rcs" />
     <extensionMap>
       <mapping pattern="SceneDelegate.swift" type="AUTO_DETECTED" />
       <mapping pattern="UserRepositoryIos.kt" type="AUTO_DETECTED" />
@@ -11,11 +11,11 @@
       <mapping ext="mp3" type="Native" />
       <mapping ext="mp4" type="Native" />
       <mapping ext="sqlite" type="Native" />
+      <mapping pattern="UserRepository.class" type="PLAIN_TEXT" />
       <mapping pattern="RecyclerViewAdapter.kt" type="PLAIN_TEXT" />
       <mapping pattern="picture_cwac2" type="PLAIN_TEXT" />
       <mapping pattern="booleans" type="PLAIN_TEXT" />
       <mapping pattern="user_login.json" type="PLAIN_TEXT" />
-      <mapping pattern="UserRepository.class" type="PLAIN_TEXT" />
       <mapping pattern="custom_button" type="PLAIN_TEXT" />
       <mapping ext="xcuserstate" type="PLAIN_TEXT" />
       <mapping ext="kotlin" type="PLAIN_TEXT" />
