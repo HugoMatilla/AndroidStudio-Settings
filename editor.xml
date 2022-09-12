@@ -7,6 +7,7 @@
     <EXCLUDED_PACKAGE NAME="kotlinx.android.synthetic.main.kprofile_fragment.name" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
+    <option name="AUTOREPARSE_DELAY" value="0" />
     <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="3" />
   </component>
   <component name="EditorSettings">
