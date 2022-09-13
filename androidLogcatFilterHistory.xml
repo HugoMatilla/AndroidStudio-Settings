@@ -7,9 +7,10 @@
         <option value="package:mine   " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine   " />
+    <option name="mostRecentlyUsed" value="package:mine   pubsub" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine   pubsub" />
         <option value="package:mine  " />
         <option value="package:mine" />
         <option value="package:mine  okhttp" />
