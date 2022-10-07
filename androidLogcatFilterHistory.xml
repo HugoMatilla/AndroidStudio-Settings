@@ -7,9 +7,10 @@
         <option value="package:mine   " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine level:ERROR " />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="" />
         <option value="package:mine " />
         <option value="package:mine   declined_reason pub sub" />
         <option value="package:mine   declined_reason" />
@@ -29,7 +30,6 @@
         <option value="level:ERROR" />
         <option value="level:" />
         <option value=" E " />
-        <option value="E" />
       </list>
     </option>
   </component>
