@@ -5,16 +5,17 @@
         <option value="package:mine level:ERROR " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine pub" />
+    <option name="mostRecentlyUsed" value="package:mine http" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine http" />
+        <option value="package:mine " />
         <option value="package:mine pub" />
         <option value="package:mine   " />
         <option value="package:mine   pubsub" />
         <option value="package:mine    " />
         <option value="package:mine" />
         <option value="" />
-        <option value="package:mine " />
         <option value="package:mine   declined_reason pub sub" />
         <option value="package:mine   declined_reason" />
         <option value="package:mine  " />
@@ -27,7 +28,6 @@
         <option value="sepa_instant_out" />
         <option value="mobile_dashboard_v1" />
         <option value="http Organization" />
-        <option value="http" />
       </list>
     </option>
   </component>
