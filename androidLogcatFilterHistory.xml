@@ -5,11 +5,11 @@
         <option value="package:mine level:ERROR " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine http" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine http" />
         <option value="package:mine " />
+        <option value="package:mine http" />
         <option value="package:mine pub" />
         <option value="package:mine   " />
         <option value="package:mine   pubsub" />
