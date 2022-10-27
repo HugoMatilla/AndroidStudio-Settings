@@ -9,6 +9,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine " />
         <option value="package:mine http" />
         <option value="package:mine pub" />
         <option value="package:mine   " />
@@ -27,7 +28,6 @@
         <option value="12:55:03." />
         <option value="sepa_instant_out" />
         <option value="mobile_dashboard_v1" />
-        <option value="http Organization" />
       </list>
     </option>
   </component>
