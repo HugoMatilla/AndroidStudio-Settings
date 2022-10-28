@@ -5,9 +5,10 @@
         <option value="package:mine level:ERROR " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine status:RJCT,code:XX00" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine status:RJCT,code:XX00" />
         <option value="package:mine " />
         <option value="package:mine " />
         <option value="package:mine http" />
@@ -27,7 +28,6 @@
         <option value="international_transfers_v2" />
         <option value="12:55:03." />
         <option value="sepa_instant_out" />
-        <option value="mobile_dashboard_v1" />
       </list>
     </option>
   </component>
