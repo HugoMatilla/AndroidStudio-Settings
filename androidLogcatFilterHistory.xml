@@ -5,9 +5,11 @@
         <option value="package:mine level:ERROR " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine http" />
+    <option name="mostRecentlyUsed" value="package:mine warnings" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine warnings" />
+        <option value="package:mine warnin" />
         <option value="package:mine http" />
         <option value="package:mine" />
         <option value="package:mine " />
@@ -26,7 +28,6 @@
         <option value="package:mine level:" />
         <option value="14:11:21." />
         <option value="14:11:21.003" />
-        <option value="international_transfers_v2" />
       </list>
     </option>
   </component>
