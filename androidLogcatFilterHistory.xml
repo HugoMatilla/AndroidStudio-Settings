@@ -5,12 +5,12 @@
         <option value="package:mine level:ERROR " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine track eventName" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
-        <option value="package:mine track eventName" />
         <option value="package:mine " />
+        <option value="package:mine track eventName" />
         <option value="package:mine track " />
         <option value="package:mine warnings" />
         <option value="package:mine warnin" />
