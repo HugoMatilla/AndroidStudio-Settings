@@ -5,11 +5,13 @@
         <option value="package:mine level:ERROR " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine warnings" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine warnings" />
         <option value="package:mine " />
+        <option value="package:mine v3/beneficiaries" />
+        <option value="package:mine benef" />
+        <option value="package:mine warnings" />
         <option value="package:mine " />
         <option value="package:mine track eventName" />
         <option value="package:mine track " />
@@ -26,8 +28,6 @@
         <option value="" />
         <option value="package:mine   declined_reason pub sub" />
         <option value="package:mine   declined_reason" />
-        <option value="package:mine  " />
-        <option value="package:mine  okhttp" />
       </list>
     </option>
   </component>
