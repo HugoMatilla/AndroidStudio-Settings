@@ -5,13 +5,15 @@
         <option value="package:mine level:ERROR " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine beneficiar" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine beneficiar" />
+        <option value="package:mine http" />
+        <option value="package:mine v4/" />
         <option value="package:mine " />
         <option value="package:mine  " />
         <option value="package:mine http " />
-        <option value="package:mine http" />
         <option value="package:mine http getBeneficiary" />
         <option value="package:mine v3/beneficiaries" />
         <option value="package:mine benef" />
@@ -26,8 +28,6 @@
         <option value="package:mine " />
         <option value="package:mine pub" />
         <option value="package:mine   " />
-        <option value="package:mine   pubsub" />
-        <option value="package:mine    " />
       </list>
     </option>
   </component>
