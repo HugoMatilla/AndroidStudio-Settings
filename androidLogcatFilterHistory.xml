@@ -5,10 +5,10 @@
         <option value="package:mine level:ERROR " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine pending" />
         <option value="package:mine beneficiar" />
         <option value="package:mine http" />
         <option value="package:mine v4/" />
@@ -27,7 +27,6 @@
         <option value="package:mine status:RJCT,code:XX00" />
         <option value="package:mine " />
         <option value="package:mine pub" />
-        <option value="package:mine   " />
       </list>
     </option>
   </component>
