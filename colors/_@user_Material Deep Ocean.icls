@@ -4,7 +4,7 @@
     <property name="created">2020-04-27T16:01:15</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.6.1.0</property>
-    <property name="modified">2023-01-27T16:55:51</property>
+    <property name="modified">2023-01-27T17:55:15</property>
     <property name="originalScheme">Material Deep Ocean</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -396,9 +396,9 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
-    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
-    <option name="Class" baseAttributes="" />
+    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="" />
+    <option name="Class" baseAttributes="CLASS_NAME_ATTRIBUTES" />
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="ffcb6b" />
@@ -713,7 +713,7 @@
         <option name="FOREGROUND" value="f78c6c" />
       </value>
     </option>
-    <option name="Groovy method declaration" baseAttributes="" />
+    <option name="Groovy method declaration" baseAttributes="METHOD_DECLARATION_ATTRIBUTES" />
     <option name="HAML_CLASS">
       <value>
         <option name="FOREGROUND" value="ffcb6b" />
@@ -1154,7 +1154,7 @@
         <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
-    <option name="List/map to object conversion" baseAttributes="" />
+    <option name="List/map to object conversion" baseAttributes="JAVA_NUMBER" />
     <option name="MACRONAME">
       <value>
         <option name="FOREGROUND" value="908b25" />
@@ -2758,8 +2758,8 @@
     </option>
     <option name="Scala Type Alias" baseAttributes="" />
     <option name="Scala Type parameter" baseAttributes="" />
-    <option name="Static method access" baseAttributes="" />
-    <option name="Static property reference ID" baseAttributes="" />
+    <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
+    <option name="Static property reference ID" baseAttributes="STATIC_FINAL_FIELD_ATTRIBUTES" />
     <option name="TAPESTRY_COMPONENT_PARAMATER" baseAttributes="" />
     <option name="TAPESTRY_COMPONENT_TAG" baseAttributes="" />
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
@@ -2808,7 +2808,7 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="Unresolved reference access" baseAttributes="" />
+    <option name="Unresolved reference access" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="VELOCITY_KEYWORD">
       <value>
         <option name="FOREGROUND" value="a7dbd8" />
