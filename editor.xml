@@ -45,7 +45,7 @@
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value=".vcs.code.vision" />
+    <option name="lastViewedProviderKeyId" value="" />
   </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseInnerClasses" value="true" />
