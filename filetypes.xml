@@ -8,20 +8,20 @@
       <mapping pattern="UserRepositoryIos" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="mp3" type="Native" />
-      <mapping ext="mp4" type="Native" />
       <mapping ext="sqlite" type="Native" />
+      <mapping ext="mp4" type="Native" />
+      <mapping ext="mp3" type="Native" />
       <mapping pattern="RecyclerViewAdapter.kt" type="PLAIN_TEXT" />
       <mapping pattern="picture_cwac2" type="PLAIN_TEXT" />
       <mapping pattern="user_login.json" type="PLAIN_TEXT" />
       <mapping pattern="booleans" type="PLAIN_TEXT" />
       <mapping pattern="UserRepository.class" type="PLAIN_TEXT" />
       <mapping pattern="custom_button" type="PLAIN_TEXT" />
-      <mapping ext="xcuserstate" type="PLAIN_TEXT" />
       <mapping ext="kotlin" type="PLAIN_TEXT" />
+      <mapping ext="xcuserstate" type="PLAIN_TEXT" />
       <mapping pattern="btn_transparent" type="XML" />
-      <mapping ext="gpx" type="XML" />
       <mapping ext="xcscheme" type="XML" />
+      <mapping ext="gpx" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="pro" approved="true" type="DeviceSpecFile" />
       <removed_mapping ext="psd" approved="true" type="Image" />
