@@ -2,9 +2,11 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine level:ERROR " />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
@@ -26,7 +28,6 @@
         <option value="package:mine status:RJCT,code:" />
         <option value="package:mine status:RJCT,code:XX00" />
         <option value="package:mine " />
-        <option value="package:mine pub" />
       </list>
     </option>
   </component>
