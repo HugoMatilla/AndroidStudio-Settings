@@ -3,16 +3,16 @@
     <option name="favorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine " />
         <option value="package:mine level:ERROR " />
+        <option value="package:mine beneficiar" />
       </list>
     </option>
     <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine " />
         <option value="package:mine http" />
         <option value="package:mine pending" />
-        <option value="package:mine beneficiar" />
         <option value="package:mine v4/" />
         <option value="package:mine  " />
         <option value="package:mine http " />
@@ -20,14 +20,12 @@
         <option value="package:mine v3/beneficiaries" />
         <option value="package:mine benef" />
         <option value="package:mine warnings" />
-        <option value="package:mine " />
         <option value="package:mine track eventName" />
         <option value="package:mine track " />
         <option value="package:mine warnin" />
         <option value="package:mine" />
         <option value="package:mine status:RJCT,code:" />
         <option value="package:mine status:RJCT,code:XX00" />
-        <option value="package:mine " />
       </list>
     </option>
   </component>
