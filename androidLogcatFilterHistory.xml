@@ -8,9 +8,10 @@
         <option value="package:mine beneficiar" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine tracker" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tracker" />
         <option value="package:mine http" />
         <option value="package:mine pending" />
         <option value="package:mine v4/" />
