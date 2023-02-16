@@ -8,9 +8,10 @@
         <option value="package:mine beneficiar" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine track" />
+    <option name="mostRecentlyUsed" value="package:mine track eventName" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine track eventName" />
         <option value="package:mine track" />
         <option value="package:mine segment" />
         <option value="package:mine tracker" />
@@ -23,7 +24,6 @@
         <option value="package:mine v3/beneficiaries" />
         <option value="package:mine benef" />
         <option value="package:mine warnings" />
-        <option value="package:mine track eventName" />
         <option value="package:mine track " />
         <option value="package:mine warnin" />
         <option value="package:mine" />
