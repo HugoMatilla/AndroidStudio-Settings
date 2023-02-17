@@ -2,16 +2,16 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
+        <option value="package:mine track eventName" />
         <option value="package:mine level:ERROR " />
         <option value="package:mine " />
         <option value="package:mine " />
         <option value="package:mine beneficiar" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine level:ERROR " />
+    <option name="mostRecentlyUsed" value="package:mine track eventName" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine track eventName" />
         <option value="package:mine track" />
         <option value="package:mine segment" />
         <option value="package:mine tracker" />
