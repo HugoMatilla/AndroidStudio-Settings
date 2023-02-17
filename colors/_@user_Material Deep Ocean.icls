@@ -4,7 +4,7 @@
     <property name="created">2020-04-27T16:01:15</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.6.1.0</property>
-    <property name="modified">2023-02-16T17:59:37</property>
+    <property name="modified">2023-02-17T10:21:59</property>
     <property name="originalScheme">Material Deep Ocean</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -396,8 +396,8 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
-    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="" />
     <option name="Class" baseAttributes="" />
     <option name="DEFAULT_ATTRIBUTE">
       <value>
