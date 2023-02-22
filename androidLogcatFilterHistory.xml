@@ -9,8 +9,10 @@
         <option value="package:mine beneficiar" />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="package:mine level:ERROR " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine track" />
         <option value="package:mine segment" />
         <option value="package:mine tracker" />
@@ -25,7 +27,6 @@
         <option value="package:mine warnings" />
         <option value="package:mine track " />
         <option value="package:mine warnin" />
-        <option value="package:mine" />
         <option value="package:mine status:RJCT,code:" />
         <option value="package:mine status:RJCT,code:XX00" />
       </list>
