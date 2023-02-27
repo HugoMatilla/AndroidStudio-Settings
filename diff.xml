@@ -57,6 +57,9 @@
       </entry>
     </option>
   </component>
+  <component name="ExternalDiffSettings">
+    <option name="MIGRATE_OLD_SETTINGS" value="true" />
+  </component>
   <component name="TextDiffSettings">
     <option name="PLACES_MAP">
       <entry key="ChangesView">
@@ -71,8 +74,14 @@
       <entry key="Default">
         <PlaceSettings>
           <option name="EXPAND_BY_DEFAULT" value="false" />
+          <option name="HIGHLIGHT_POLICY" value="BY_LINE" />
           <option name="IGNORE_POLICY" value="TRIM_WHITESPACES" />
           <option name="USE_SOFT_WRAPS" value="true" />
+        </PlaceSettings>
+      </entry>
+      <entry key="TestsFiledAssertions">
+        <PlaceSettings>
+          <option name="EXPAND_BY_DEFAULT" value="false" />
         </PlaceSettings>
       </entry>
     </option>
