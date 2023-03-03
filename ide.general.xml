@@ -23,6 +23,9 @@
     <entry key="external.system.auto.import.disabled" value="true" />
     <entry key="run.processes.with.pty" value="false" />
     <entry key="ide.text.editor.with.preview.show.floating.toolbar" value="false" />
-    <entry key="ide.experimental.ui" value="false" />
+    <entry key="ide.editor.tab.selection.animation" value="true" />
+    <entry key="ide.new.editor.tabs.vertical.borders" value="true" />
+    <entry key="editor.focus.mode.color.light" value="464b5d" />
+    <entry key="editor.focus.mode.color.dark" value="464b5d" />
   </component>
 </application>
