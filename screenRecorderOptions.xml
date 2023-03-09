@@ -1,5 +1,6 @@
 <application>
   <component name="ScreenRecorderOptions">
-    <option name="resolutionPercent" value="50" />
+    <option name="resolutionPercent" value="30" />
+    <option name="showTaps" value="true" />
   </component>
 </application>
