@@ -46,6 +46,13 @@
   </component>
   <component name="InlayHintsSettings">
     <option name="lastViewedProviderKeyId" value="" />
+    <settingsMapElement>
+      <kotlin.kotlin.lambdas.hints>
+        <Settings>
+          <option name="implicitReceiversAndParams" value="false" />
+        </Settings>
+      </kotlin.kotlin.lambdas.hints>
+    </settingsMapElement>
   </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseInnerClasses" value="true" />
