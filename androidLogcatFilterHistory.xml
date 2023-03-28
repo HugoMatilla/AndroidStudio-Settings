@@ -9,11 +9,11 @@
         <option value="package:mine beneficiar" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:mine http" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine" />
         <option value="package:mine http" />
+        <option value="package:mine" />
         <option value="package:mine mandate" />
         <option value="package:mine DKV EURO" />
         <option value="package:mine track" />
