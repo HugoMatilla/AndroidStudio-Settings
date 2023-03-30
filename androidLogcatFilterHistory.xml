@@ -9,9 +9,10 @@
         <option value="package:mine beneficiar" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine http" />
+    <option name="mostRecentlyUsed" value="package:mine http " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine http " />
         <option value="package:mine http" />
         <option value="package:mine track" />
         <option value="package:mine tracker" />
@@ -22,7 +23,6 @@
         <option value="package:mine pending" />
         <option value="package:mine v4/" />
         <option value="package:mine  " />
-        <option value="package:mine http " />
         <option value="package:mine http getBeneficiary" />
         <option value="package:mine v3/beneficiaries" />
         <option value="package:mine benef" />
