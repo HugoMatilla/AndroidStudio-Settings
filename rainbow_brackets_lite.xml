@@ -1,0 +1,5 @@
+<application>
+  <component name="RainbowLiteSettings">
+    <option name="suppressBigFileCheck" value="true" />
+  </component>
+</application>
