@@ -4,7 +4,7 @@
     <property name="created">2018-05-30T17:48:59</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.1.2.0</property>
-    <property name="modified">2023-02-27T11:56:18</property>
+    <property name="modified">2023-04-06T16:19:46</property>
     <property name="originalScheme">Darkside Contrast (rainglow)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -601,6 +601,11 @@
     <option name="Class">
       <value>
         <option name="FOREGROUND" value="8e69c9" />
+      </value>
+    </option>
+    <option name="ComposableCallTextAttributes">
+      <value>
+        <option name="FOREGROUND" value="ff69" />
       </value>
     </option>
     <option name="DEBUGGER_INLINED_VALUES">
