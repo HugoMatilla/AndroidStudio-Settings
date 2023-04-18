@@ -21,6 +21,9 @@
     <keyboard-shortcut first-keystroke="meta 6" />
   </action>
   <action id="ActivateProblemsViewToolWindow" />
+  <action id="ActivateRunningDevicesToolWindow">
+    <keyboard-shortcut first-keystroke="meta 7" />
+  </action>
   <action id="ActivateStructureToolWindow" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
