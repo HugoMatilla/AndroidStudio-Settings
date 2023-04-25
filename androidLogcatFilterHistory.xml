@@ -2,8 +2,8 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
-        <option value="package:mine " />
         <option value="package:mine level:ERROR " />
+        <option value="package:mine " />
         <option value="package:mine track eventName" />
         <option value="package:mine " />
         <option value="package:mine beneficiar" />
