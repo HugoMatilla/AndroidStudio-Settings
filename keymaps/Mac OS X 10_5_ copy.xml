@@ -21,6 +21,9 @@
     <keyboard-shortcut first-keystroke="meta 6" />
   </action>
   <action id="ActivateProblemsViewToolWindow" />
+  <action id="ActivateRunningDevicesToolWindow">
+    <keyboard-shortcut first-keystroke="meta 7" />
+  </action>
   <action id="ActivateStructureToolWindow" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
@@ -44,6 +47,12 @@
     <keyboard-shortcut first-keystroke="meta slash" />
     <keyboard-shortcut first-keystroke="meta divide" />
     <keyboard-shortcut first-keystroke="meta alt 7" />
+  </action>
+  <action id="CommitView.ShowOnDoubleClick.EditorPreview">
+    <keyboard-shortcut first-keystroke="ctrl meta alt d" />
+  </action>
+  <action id="CommitView.ShowOnDoubleClick.Source">
+    <keyboard-shortcut first-keystroke="ctrl meta alt s" />
   </action>
   <action id="Debug">
     <keyboard-shortcut first-keystroke="shift alt x" />

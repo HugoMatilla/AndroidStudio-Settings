@@ -35,6 +35,9 @@
       </value>
     </option>
   </AndroidXmlCodeStyleSettings>
+  <ComposeCustomCodeStyleSettings>
+    <option name="USE_CUSTOM_FORMATTING_FOR_MODIFIERS" value="false" />
+  </ComposeCustomCodeStyleSettings>
   <JavaCodeStyleSettings>
     <option name="IMPORT_LAYOUT_TABLE">
       <value>
