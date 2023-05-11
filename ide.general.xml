@@ -28,5 +28,6 @@
     <entry key="ide.new.editor.tabs.vertical.borders" value="true" />
     <entry key="editor.focus.mode.color.light" value="464b5d" />
     <entry key="editor.focus.mode.color.dark" value="464b5d" />
+    <entry key="ide.experimental.ui" value="false" />
   </component>
 </application>
